@@ -1,7 +1,7 @@
 import { type ClassValue, clsx } from "clsx";
 import { twMerge } from "tailwind-merge";
 import { getCollection } from "astro:content";
-import { PROFILE } from "@/content/profileData.ts";
+import { PROFILE } from "@/content/profile.ts";
 
 
 /**

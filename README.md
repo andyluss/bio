@@ -52,7 +52,7 @@ To install and run the project locally, follow these steps:
 
 5. Open your browser and visit `http://localhost:4312` to see your portfolio in action.
 6. Config your site
-   1. Edit `src/content/profileData.ts` to add your profile data
+   1. Edit `src/content/profile.ts` to add your profile data
    2. Edit `astro.config.mjs` to change the site information
 
 
@@ -85,6 +85,6 @@ This project was inspired by several outstanding portfolios. Here are some that 
 - Centralised data management inside one folder
   - Use Astro recommended [Content Collection](https://docs.astro.build/en/guides/content-collections/) to manage data
   - `src/content` folder for blog posts, project data and profile data
-  - `src/content/profileData.ts` for general profile data
+  - `src/content/profile.ts` for general profile data
 - Tags system
 - Simplified Dark/Light mode toggle
