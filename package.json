@@ -1,19 +1,19 @@
 {
-  "site": "https://techtim42.com",
-  "id": "TechTim42",
-  "name": "@tim-hub/techtim42",
+  "site": "https://lushisang.com",
+  "id": "lushisang",
+  "name": "lushisang",
   "version": "1.0.0",
-  "fullName": "Tech Tim",
+  "fullName": "Andy Lu",
   "description": "Learn, Share and Grow ❤️ -- Software Engineer | AWS Professional | Open Source Lover  --☘️ Be more productive, Better in communicating, Contribute more to community ",
   "author": {
-    "name": "Tech Tim",
-    "url": "https://TechTim42.com"
+    "name": "Andy Lu",
+    "url": "https://lushisang.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tim-hub/techtim-astro-bento-portfolio"
+    "url": "https://github.com/andyluss/home"
   },
-  "homepage": "https://techtim42.com",
+  "homepage": "https://lushisang.com",
   "keywords": [
     "astro",
     "portfolio",
