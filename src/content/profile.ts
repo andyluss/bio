@@ -3,11 +3,10 @@ export const PROFILE = {
     SEO: {
       //     more complicated description for SEO
       title: "Andy Lu",
-      description:
-        "Learn, Share and Grow ❤️ -- Software Engineer | AWS Professional | Open Source Lover  --☘️ Be more productive, Better in communicating, Contribute more to community. | Tech Tim's New Astro Portfolio",
+      description: "软件开发者，开源提倡者，书籍爱好者。",
     },
   },
-  timezone: "Australia/Sydney",
+  timezone: "Asia/Shanghai",
   language: "en-AU",
   firstName: "Andy",
   name: "Andy Lu",
@@ -41,7 +40,6 @@ export const PROFILE = {
     medium: "https://medium.com/@lushisang",
     twitter: "https://x.com/lushisang",
     bluesky: "https://bsky.app/profile/lushisang.bsky.social",
-    // thread: "https://www.threads.net/@techtim2024",
     mastodon: "https://mastodon.social/@lushisang",
     youtube: "https://www.youtube.com/@lushisang",
     stackoverflow: "https://stackoverflow.com/users/8550993",
